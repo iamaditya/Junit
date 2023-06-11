@@ -20,7 +20,7 @@ Follow the steps below to get started with running the JUnit tests:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/iamaditya/Junit.git
 
 
 2. Compile the source code:
