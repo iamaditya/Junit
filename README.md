@@ -25,9 +25,11 @@ Follow the steps below to get started with running the JUnit tests:
 
 2. Compile the source code:
 
+    ```bash
     javac -cp junit.jar:. newone/*.java
 
 3. Run the tests
+    ```bash
     java -cp junit.jar:. org.junit.runner.JUnitCore newone.TwitterClassTest newone.InstagramClassTest
 
 This will execute the JUnit tests for the TwitterClass and InstagramClass.
