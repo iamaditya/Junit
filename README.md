@@ -50,6 +50,9 @@ This will execute the JUnit tests for the TwitterClass and InstagramClass.
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
+## Screenshot
+![Screenshot](Junit/image/img.png)
+
 
 ## License
 MIT License
